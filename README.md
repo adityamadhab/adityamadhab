@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aditya Madhab Borah, a passionate Full Stack Developer with a focus on building dynamic web applications. With experience in React.js, Vue.js, Node.js, Express, and cloud technologies like AWS, I enjoy creating efficient and scalable solutions. My projects range from project management systems to decentralized applications, and I’m always exploring new ways to improve user experience and functionality. Let's connect and build something amazing together!
+👋 Hi, I'm Aditya Madhab Borah, a passionate Full Stack Developer with a focus on building dynamic web applications. With experience in React.js, Vue.js, Node.js, Express, and cloud technologies like AWS, I enjoy creating efficient and scalable solutions. My projects range from project management systems to decentralized applications, and I’m always exploring new ways to improve user experience and functionality. Let's connect and build something amazing together!!
 
 
 ## 🌐 Socials:
